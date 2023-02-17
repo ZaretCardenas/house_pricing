@@ -1,0 +1,136 @@
+INFO:root:Started preprocess
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started 
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started 
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started 
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started 
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started Featurizing
+INFO:root:Finished Featurizing
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started Featurizing
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Finished Featurizing
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started Featurizing
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Finished Featurizing
+INFO:root:Started preprocess
+INFO:root:Finished preprocess
+INFO:root:Started Featurizing
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Finished Featurizing
+INFO:root:Started preprocess
+INFO:root:Started Featurizing
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.836061863509838
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.8388330924478582
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.8366327567487822
+INFO:src.procesing:Shape after loading data =1460
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:src.procesing:Shape after preprocessing =1460
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.8367496746603054
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:src.procesing:Shape after preprocessing =1460
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.8364329391412204
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:src.procesing:Shape after preprocessing =1460
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.8359743134631106
+INFO:root:Started loading data
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:root:Variables required in utils not found in train or test 
+INFO:root:Started preprocess
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:root:Variables required in utils not found in train or test 
+INFO:root:Started preprocess
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:src.procesing:Variables required in utils not found in train or test 
+INFO:root:Variables required in utils not found in train or test 
+INFO:root:Started loading data
+INFO:src.procesing:Shape after loading data =1460
+INFO:root:Started preprocess
+WARNING:root:This variables were been erased ['Id', 'Alley', 'PoolQC', 'MiscFeature', 'Fence', 'MoSold', 'YrSold', 'MSSubClass', 'GarageType', 'GarageArea', 'GarageYrBlt', 'GarageFinish', 'YearRemodAdd', 'LandSlope', 'BsmtUnfSF', 'BsmtExposure', '2ndFlrSF', 'LowQualFinSF', 'Condition1', 'Condition2', 'Heating', 'Exterior1st', 'Exterior2nd', 'HouseStyle', 'LotShape', 'LandContour', 'LotConfig', 'Functional', 'BsmtFinSF1', 'BsmtFinSF2', 'FireplaceQu', 'WoodDeckSF', 'GarageQual', 'GarageCond', 'OverallCond']
+INFO:src.procesing:Shape after preprocessing =1460
+INFO:root:Started Featurizing
+WARNING:root:This variables were been erased ['OverallQual', 'ExterCond', 'ExterQual', 'BsmtCond', 'BsmtQual', 'BsmtFinType1', 'BsmtFinType2', 'HeatingQC', 'OpenPorchSF', 'EnclosedPorch', '3SsnPorch', 'ScreenPorch', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'SaleType']
+INFO:src.procesing:Shape after featurizing =1460
+INFO:root:Started Trainning
+INFO:src.procesing:Score mean of cross validation =0.8349726076065206
